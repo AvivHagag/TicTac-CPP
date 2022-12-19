@@ -1,4 +1,5 @@
 #Tic Tac Game
+<h2 align="center">Tic Tac Game</h2>
 
 This project was made through C++ and OOP courses
 It all started with a desire to make a simple tic-tac-toe game to challenge myself and test my abilities in C++ and OOP, then when I saw that it was a relatively easy and common project, I decided to add a little twist, and add the option to play against the computer, during the project I had to learn in depth the The principles of the game and methods of thinking that I had to give to the "computer" in order to give the computer the possibility to win even if it is against a strong opponent.\

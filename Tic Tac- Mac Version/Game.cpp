@@ -810,8 +810,6 @@ cout << "Welcome To Tic Tac Game !    " << endl;
             }
         }
     }
-    delete[] flags;
-    delete[] flagA;
 }
 
 void Game::printBoard() {

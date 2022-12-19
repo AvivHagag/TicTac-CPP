@@ -8,7 +8,7 @@
 - For learning the game and methods i used YouTube.
 
 ## Play the game:
-- Feel free to clone and run on your machine.
+Feel free to clone and run on your machine.
 - **Please note,**
-- There are 2 versions of the game, one adapted for Windows and one adapted for X-code on Mac.
+There are 2 versions of the game, one adapted for Windows and one adapted for X-code on Mac.
 Due to the use of different libraries, in order to run properly please download the appropriate version.
